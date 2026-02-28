@@ -6,6 +6,7 @@ Microsoft Fabric and Databricks to analyse global urbanisation
 trends and income data for investment market assessment.
 
 ## Architecture
+![Architecture Diagram](docs/architecture.png)
 Medallion Architecture (Bronze → Silver → Gold) implemented 
 in both Microsoft Fabric and Databricks, with visualisations 
 served via PowerBI.
