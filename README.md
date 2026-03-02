@@ -23,12 +23,6 @@ served via PowerBI.
 Located in /fabric folder. Uses Fabric Lakehouse
 and native PowerBI integration.
 
-### Databricks
-Located in /databricks folder. Uses Databricks
-Delta Lake and medallion architecture.
-Both implementations produce identical outputs
-demonstrating platform flexibility.
-
 ## Notebooks
 | Notebook | Purpose |
 |---|---|
